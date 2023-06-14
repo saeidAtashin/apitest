@@ -251,5 +251,41 @@
       "phone": "0936",
       "userType": "admin"
     }
+  ],
+  "handicrafts": [
+    {
+      "id": 1,
+      "name": "See No Evil",
+      "def_img": "images/nabin1.jpg",
+      "sec_img": "images/nabin2.jpg",
+      "brand": "Handicrafts",
+      "product_title": "One of the three famous symbols in Japanese culture is 'See No Evil, Hear No Evil, Speak No Evil'",
+      "avrage_stars": 4,
+      "org_price": "4000",
+      "new_price": "2999",
+      "isActive": true,
+      "isOffer": true,
+      "numberOfSell": "8",
+      "description": "One of the three famous symbols in Japanese culture is 'See No Evil, Hear No Evil, Speak No Evil,' expressed through visual arts. This sculpture covers its eyes, indicating the avoidance of seeing evil and wrongdoing. It is made of more than 60 wooden plates.",
+      "reviews": {
+        "firs_rev": "Lorem ipsum dolor sit amet consecteturipsum dolor sit amet consectetur adipisicing elit. Voluptatibus, delectus minima! Animi quaerat s g elit. Voluptatibus, delectus minima! Animi quaerat sed illo?",
+        "rev_stars": "4"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Old Boy",
+      "def_img": "images/oldboy1.jpg",
+      "sec_img": "images/oldboy2.jpg",
+      "brand": "Handicrafts",
+      "product_title": "This artwork may represent the emotions and feelings of each individual, as in this era, we may have aged internally but still maintain a vibrant and youthful appearance outwardly.",
+      "org_price": "2000",
+      "new_price": "1200",
+      "isOffer": false,
+      "numberOfSell": "6",
+
+      "isActive": true,
+      "description": "This sculpture is made of MDF (Medium Density Fiberboard) sheets. The arrangement of 93 MDF sheets together forms the shape of a human. The outer face of this sculpture represents a young person, while the inner part features a closed-eyed old man, symbolizing experience. It is a unique sculpture that you won't find anywhere else, adding a distinctive touch to your home or shop decor. The front view of the sculpture is black, but from other angles, you can see your chosen color, creating a contrasting effect that enhances the sculpture's beauty. The precise and special design of this sculpture, along with the intricacy of crafting each individual sheet, will astonish you. One of its notable strengths is its uniqueness, as there are no other similar examples, making it a captivating addition to your decor."
+    }
   ]
 }
