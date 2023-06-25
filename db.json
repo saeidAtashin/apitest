@@ -12,6 +12,8 @@
       "org_price": "5000",
       "new_price": "3999",
       "isActive": true,
+      "isBanner":false,
+      "isBigBanner":false,
       "isOffer": true,
       "numberOfSell": "0",
       "description": "Three stylish case colors. Powerful sensors for insights about your health and fitness. Innovative safety features. Convenient ways to stay connected.A faster dual-core processor for added performance. Apple Watch SE is feature packed, and it’s a better value than ever.Three stylish case colors. Powerful sensors for insights about your health and fitness. Innovative safety features. Convenient ways to stay connected.A faster dual-core processor for added performance. Apple Watch SE is feature packed, and it’s a better value than ever.Three stylish case colors. Powerful sensors for insights about your health and fitness. Innovative safety features. Convenient ways to stay connected.A faster dual-core processor for added performance. Apple Watch SE is feature packed, and it’s a better value than ever.",
@@ -33,6 +35,8 @@
       "numberOfSell": "0",
 
       "isActive": true,
+      "isBanner":false,
+      "isBigBanner":false,
       "description": "Available in breathtaking colors specially designed to complete your look. Choose from Graphite, Sapphire, Silver for Galaxy Watch5 Large — or Graphite, Pink Gold, Silver for Galaxy Watch5 Small. 33, 34.Available in breathtaking colors specially designed to complete your look. Choose from Graphite, Sapphire, Silver for Galaxy Watch5 Large — or Graphite, Pink Gold, Silver for Galaxy Watch5 Small. 33, 34.Available in breathtaking colors specially designed to complete your look. Choose from Graphite, Sapphire, Silver for Galaxy Watch5 Large — or Graphite, Pink Gold, Silver for Galaxy Watch5 Small. 33, 34."
     },
     {
@@ -46,6 +50,8 @@
       "org_price": "5000",
       "new_price": "3999",
       "isActive": true,
+      "isBanner":false,
+      "isBigBanner":false,
       "isOffer": true,
       "numberOfSell": "0",
 
@@ -66,6 +72,8 @@
       "org_price": "5000",
       "new_price": "3999",
       "isActive": true,
+      "isBanner":false,
+      "isBigBanner":false,
       "isOffer": true,
       "numberOfSell": "3",
 
@@ -86,6 +94,8 @@
       "org_price": "5000",
       "new_price": "3999",
       "isActive": true,
+      "isBanner":false,
+      "isBigBanner":false,
       "isOffer": true,
       "numberOfSell": "0",
 
@@ -106,6 +116,8 @@
       "org_price": "5000",
       "new_price": "3999",
       "isActive": true,
+      "isBanner":false,
+      "isBigBanner":false,
       "isOffer": true,
       "numberOfSell": "8",
 
@@ -126,6 +138,8 @@
       "org_price": "5000",
       "new_price": "3999",
       "isActive": true,
+      "isBanner":false,
+      "isBigBanner":false,
       "isOffer": true,
       "numberOfSell": "4",
 
@@ -146,6 +160,8 @@
       "org_price": "5000",
       "new_price": "3999",
       "isActive": true,
+      "isBanner":false,
+      "isBigBanner":false,
       "isOffer": true,
       "numberOfSell": "0",
 
@@ -166,6 +182,8 @@
       "org_price": "5000",
       "new_price": "3999",
       "isActive": true,
+      "isBanner":false,
+      "isBigBanner":false,
       "isOffer": true,
       "numberOfSell": "5",
 
@@ -186,6 +204,8 @@
       "org_price": "5000",
       "new_price": "3999",
       "isActive": true,
+      "isBanner":false,
+      "isBigBanner":false,
       "isOffer": true,
       "numberOfSell": "0",
 
@@ -206,6 +226,8 @@
       "org_price": "5000",
       "new_price": "3999",
       "isActive": true,
+      "isBanner":false,
+      "isBigBanner":false,
       "isOffer": true,
       "numberOfSell": "0",
 
@@ -226,10 +248,146 @@
       "org_price": "5000",
       "new_price": "3999",
       "isActive": true,
+      "isBanner":false,
+      "isBigBanner":false,
       "isOffer": true,
       "numberOfSell": "10",
 
       "description": "Three stylish case colors. Powerful sensors for insights about your health and fitness. Innovative safety features. Convenient ways to stay connected.A faster dual-core processor for added performance. Apple Watch SE is feature packed, and it’s a better value than ever.Three stylish case colors. Powerful sensors for insights about your health and fitness. Innovative safety features. Convenient ways to stay connected.A faster dual-core processor for added performance. Apple Watch SE is feature packed, and it’s a better value than ever.Three stylish case colors. Powerful sensors for insights about your health and fitness. Innovative safety features. Convenient ways to stay connected.A faster dual-core processor for added performance. Apple Watch SE is feature packed, and it’s a better value than ever.Three stylish case colors. Powerful sensors for insights about your health and fitness. Innovative safety features. Convenient ways to stay connected.A faster dual-core processor for added performance. Apple Watch SE is feature packed, and it’s a better value than ever.",
+      "reviews": {
+        "firs_rev": "Lorem ipsum dolor sit amet consecteturipsum dolor sit amet consectetur adipisicing elit. Voluptatibus, delectus minima! Animi quaerat s g elit. Voluptatibus, delectus minima! Animi quaerat sed illo?",
+        "rev_stars": "4"
+      }
+    },{
+      "id": 13,
+      "name": "See No Evil",
+      "def_img": "images/nabin1.jpg",
+      "sec_img": "images/nabin2.jpg",
+      "brand": "Handicrafts",
+      "product_title": "One of the three famous symbols in Japanese culture is 'See No Evil, Hear No Evil, Speak No Evil'",
+      "avrage_stars": 4,
+      "org_price": "4000",
+      "new_price": "2999",
+      "isActive": true,
+      "isBanner":false,
+      "isBigBanner":true,
+      "isOffer": true,
+      "numberOfSell": "8",
+      "description": "One of the three famous symbols in Japanese culture is 'See No Evil, Hear No Evil, Speak No Evil,' expressed through visual arts. This sculpture covers its eyes, indicating the avoidance of seeing evil and wrongdoing. It is made of more than 60 wooden plates.",
+      "reviews": {
+        "firs_rev": "Lorem ipsum dolor sit amet consecteturipsum dolor sit amet consectetur adipisicing elit. Voluptatibus, delectus minima! Animi quaerat s g elit. Voluptatibus, delectus minima! Animi quaerat sed illo?",
+        "rev_stars": "4"
+      }
+    },
+    {
+      "id": 14,
+      "name": "Old Boy",
+      "def_img": "images/oldboy1.jpg",
+      "sec_img": "images/oldboy2.jpg",
+      "brand": "Handicrafts",
+      "product_title": "This artwork may represent the emotions and feelings of each individual, as in this era, we may have aged internally but still maintain a vibrant and youthful appearance outwardly.",
+      "org_price": "2000",
+      "new_price": "1200",
+      "isOffer": false,
+      "numberOfSell": "6",
+
+      "isActive": true,
+      "isBanner":true,
+      "isBigBanner":false,
+      "description": "This sculpture is made of MDF (Medium Density Fiberboard) sheets. The arrangement of 93 MDF sheets together forms the shape of a human. The outer face of this sculpture represents a young person, while the inner part features a closed-eyed old man, symbolizing experience. It is a unique sculpture that you won't find anywhere else, adding a distinctive touch to your home or shop decor. The front view of the sculpture is black, but from other angles, you can see your chosen color, creating a contrasting effect that enhances the sculpture's beauty. The precise and special design of this sculpture, along with the intricacy of crafting each individual sheet, will astonish you. One of its notable strengths is its uniqueness, as there are no other similar examples, making it a captivating addition to your decor."
+    },
+    {
+      "id": 15,
+      "name": "Where are you in the city?",
+      "def_img": "images/handi/ct2.jpg",
+      "sec_img": "images/handi/ctup.jpg",
+      "brand": "Handicrafts",
+      "product_title": "This statue is the image of a woman with a symbol of a city placed on its head.'",
+      "avrage_stars": 4,
+      "org_price": "8000",
+      "new_price": "7500",
+      "isActive": true,
+      "isBanner":true,
+      "isBigBanner":false,
+      "isOffer": true,
+      "numberOfSell": "8",
+      "description": "One of the symbols on the head of this statue, which is clearly visible from the front, is Azadi Square and a number of buildings, which are designed with the inscription 'love you' from above. This artwork is the result of putting together 77 MDF sheets",
+      "reviews": {
+        "firs_rev": "Lorem ipsum dolor sit amet consecteturipsum dolor sit amet consectetur adipisicing elit. Voluptatibus, delectus minima! Animi quaerat s g elit. Voluptatibus, delectus minima! Animi quaerat sed illo?",
+        "rev_stars": "4"
+      }
+    },
+    {
+      "id": 16,
+      "name": "Where are you in the city 'PAPER'",
+      "def_img": "images/handi/ctsmall1.jpg",
+      "sec_img": "images/handi/ctsmall2.jpg",
+      "brand": "Handicrafts",
+      "product_title": "This sculpture is made of paper. The result is the juxtaposition of more than 300 sheets of cut paper",
+      "org_price": "6500",
+      "new_price": "6000",
+      "isOffer": false,
+      "numberOfSell": "6",
+
+      "isActive": true,
+      "isBanner":true,
+      "isBigBanner":false,
+      "description": "The most unique and meaningful statue that you can give to your loved ones. This sculpture is made of paper. The result is the juxtaposition of more than 300 sheets of cut paper. This work is the image of a woman with a symbol of a city placed on her head. This work from different angles gives a beautiful and special effect to your decoration due to the difference in color. A special statue that you have not seen anywhere else and gives a unique look to the decoration of your home, table or car. The detailed and special design of this sculpture will surprise you with the elegance of making each sheet. One of the strengths and special points of this statue is its uniqueness and lack of other examples, which will make your decoration special and attractive."
+    },
+    {
+      "id": 17,
+      "name": "judge",
+      "def_img": "images/handi/judge2.jpg",
+      "sec_img": "images/handi/judge1.jpg",
+      "brand": "Handicrafts",
+      "product_title": "These three faces are all similar to each other from the side angle, but by changing the viewing angle, we see that each of them has different problems and defects.",
+      "avrage_stars": 4,
+      "org_price": "5500",
+      "new_price": "5000",
+      "isActive": true,
+      "isBanner":true,
+      "isBigBanner":false,
+      "isOffer": true,
+      "numberOfSell": "8",
+      "description": "Judging has always been condemned by all people. But it is obligatory to remember this point at all times and for all people. All of us have sometimes judged others or been judged by others. The fact that this work is in front of our eyes may be a reminder to be careful not to judge. These three faces are all similar to each other from the side angle, but by changing the viewing angle, we see that each of them has different problems and defects. The elegance and precision of this little work of art will amaze you. Each and every layer of this work has been carefully and lovingly cut and glued together to give you a lasting work of art.",
+      "reviews": {
+        "firs_rev": "Lorem ipsum dolor sit amet consecteturipsum dolor sit amet consectetur adipisicing elit. Voluptatibus, delectus minima! Animi quaerat s g elit. Voluptatibus, delectus minima! Animi quaerat sed illo?",
+        "rev_stars": "4"
+      }
+    },
+    {
+      "id": 18,
+      "name": "speak no evil",
+      "def_img": "images/handi/nagoo1.jpg",
+      "sec_img": "images/handi/nagoo2.jpg",
+      "brand": "Handicrafts",
+      "product_title": "The three wise monkeys are a pictorial maxim, embodying the proverbial principle 'see no evil, hear no evil, speak no evil'. Iwazaru, covering his mouth, who speaks no evil",
+      "org_price": "8000",
+      "new_price": "7300",
+      "isOffer": false,
+      "numberOfSell": "6",
+
+      "isActive": true,
+      "isBanner":false,
+      "isBigBanner":false,
+      "description": "TIn the Chinese language, there is a phrase in the anthology of Confucius that means; Do not look at what is against the customary manners of propriety, do not listen to what is against the customary manners of propriety, and do not say what is against the customary manners of propriety; . It is possible that this abbreviated phrase is the Chinese Confucian's teachings. (Of course, in the teachings of ancient Iran, the same good thought, good speech, good deed; in a way, it can be associated with this admonition)."
+    },
+    {
+      "id": 19,
+      "name": "The goddess Sappho",
+      "def_img": "images/handi/sapho1.jpg",
+      "sec_img": "images/handi/sapho2.jpg",
+      "brand": "Handicrafts",
+      "product_title": "Sappho has been known as the greatest lyrical poet since ancient times. Plato called her the 10th goddess of art. This statue is made of more than 110 MDF sheets.",
+      "avrage_stars": 4,
+      "org_price": "5000",
+      "new_price": "4200",
+      "isActive": true,
+      "isBanner":false,
+      "isBigBanner":false,
+      "isOffer": true,
+      "numberOfSell": "8",
+      "description": "Sappho has been known since ancient times as the greatest lyrical poet. She was the first woman to stand by Freddie's personality, expressing even the most private feelings in poetry. His poetry had a great impact on his contemporaries, and during his lifetime, it was read and recited not only in his hometown, but also in faraway places. As Plato, the prominent Greek philosopher, bowed his head in front of Sappho's confusing art and said about her: 'Sapho is not only a great lyricist, but she is a goddess, the creator of all arts.' Sappho is the first known woman writer and is considered the foundation of the history of literature.",
       "reviews": {
         "firs_rev": "Lorem ipsum dolor sit amet consecteturipsum dolor sit amet consectetur adipisicing elit. Voluptatibus, delectus minima! Animi quaerat s g elit. Voluptatibus, delectus minima! Animi quaerat sed illo?",
         "rev_stars": "4"
@@ -254,7 +412,7 @@
   ],
   "handicrafts": [
     {
-      "id": 1,
+      "id": 13,
       "name": "See No Evil",
       "def_img": "images/nabin1.jpg",
       "sec_img": "images/nabin2.jpg",
@@ -264,6 +422,8 @@
       "org_price": "4000",
       "new_price": "2999",
       "isActive": true,
+      "isBanner":false,
+      "isBigBanner":false,
       "isOffer": true,
       "numberOfSell": "8",
       "description": "One of the three famous symbols in Japanese culture is 'See No Evil, Hear No Evil, Speak No Evil,' expressed through visual arts. This sculpture covers its eyes, indicating the avoidance of seeing evil and wrongdoing. It is made of more than 60 wooden plates.",
@@ -273,7 +433,7 @@
       }
     },
     {
-      "id": 2,
+      "id": 14,
       "name": "Old Boy",
       "def_img": "images/oldboy1.jpg",
       "sec_img": "images/oldboy2.jpg",
