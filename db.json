@@ -393,7 +393,7 @@
       "id": 18,
       "name": "speak no evil",
       "def_img": "images/handi/nagoo1.png",
-      "sec_img": "images/handi/nagoo2.jpg",
+      "sec_img": "images/handi/nagoo2.png",
       "brand": "Handicrafts",
       "product_title": "The three wise monkeys are a pictorial maxim, embodying the proverbial principle 'see no evil, hear no evil, speak no evil'. Iwazaru, covering his mouth, who speaks no evil",
       "org_price": "8000",
@@ -411,7 +411,7 @@
     {
       "id": 19,
       "name": "The goddess Sappho",
-      "def_img": "images/handi/sapho1.jpg",
+      "def_img": "images/handi/sapho1.png",
       "sec_img": "images/handi/sapho2.jpg",
       "brand": "Handicrafts",
       "product_title": "Sappho has been known as the greatest lyrical poet since ancient times. Plato called her the 10th goddess of art. This statue is made of more than 110 MDF sheets.",
