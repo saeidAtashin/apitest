@@ -2,8 +2,7 @@
   "functions": {
     "api/server.js": {
       "memory": 1024,
-      "includeFiles": "db.json",
-      "runtime": "nodejs20.x"
+      "includeFiles": "db.json"
     }
   },
   "rewrites": [
