@@ -448,6 +448,30 @@
         "firs_rev": "Lorem ipsum dolor sit amet consecteturipsum dolor sit amet consectetur adipisicing elit. Voluptatibus, delectus minima! Animi quaerat s g elit. Voluptatibus, delectus minima! Animi quaerat sed illo?",
         "rev_stars": "4"
       }
+    },
+    {
+      "id": 20,
+      "name": "Rabbit Paper Sculpture with 3D Heart",
+      "def_img": "images/handi/rabbit1.png",
+      "sec_img": "images/handi/rabbit2.png",
+      "brand": "Handicrafts",
+      "category": "Handicrafts",
+      "product_title": "A paper sculpture that emerges from within a paper notebook. Initially a simple notebook made from more than 200 sheets of paper, with each sheet removed, you get one step closer to completing the sculpture.",
+      "avrage_stars": 4,
+      "org_price": "6000",
+      "new_price": "5500",
+      "isActive": true,
+      "isBanner":false,
+      "isBigBanner":false,
+      "timer":false,
+      "offerTime":"3600000",
+      "isOffer": true,
+      "numberOfSell": "0",
+      "description": "This is a paper sculpture that emerges from within a paper notebook. Initially, it's a simple notebook made from more than 200 sheets of paper, and with each sheet removed, you get one step closer to completing the sculpture. We don't make notebooks, we make memories. Each sheet is a step towards the birth of a sculpture. This rabbit model sculpture features a 3D paper heart and represents an animal sculpture created through assembly and modeling techniques using paper as the primary material.",
+      "reviews": {
+        "firs_rev": "Lorem ipsum dolor sit amet consecteturipsum dolor sit amet consectetur adipisicing elit. Voluptatibus, delectus minima! Animi quaerat s g elit. Voluptatibus, delectus minima! Animi quaerat sed illo?",
+        "rev_stars": "4"
+      }
     }
   ],
   "users": [
@@ -506,6 +530,30 @@
 
       "isActive": true,
       "description": "This sculpture is made of MDF (Medium Density Fiberboard) sheets. The arrangement of 93 MDF sheets together forms the shape of a human. The outer face of this sculpture represents a young person, while the inner part features a closed-eyed old man, symbolizing experience. It is a unique sculpture that you won't find anywhere else, adding a distinctive touch to your home or shop decor. The front view of the sculpture is black, but from other angles, you can see your chosen color, creating a contrasting effect that enhances the sculpture's beauty. The precise and special design of this sculpture, along with the intricacy of crafting each individual sheet, will astonish you. One of its notable strengths is its uniqueness, as there are no other similar examples, making it a captivating addition to your decor."
+    },
+    {
+      "id": 20,
+      "name": "Rabbit Paper Sculpture with 3D Heart",
+      "def_img": "images/handi/rabbit1.png",
+      "sec_img": "images/handi/rabbit2.png",
+      "brand": "Handicrafts",
+      "category": "Handicrafts",
+      "product_title": "A paper sculpture that emerges from within a paper notebook. Initially a simple notebook made from more than 200 sheets of paper, with each sheet removed, you get one step closer to completing the sculpture.",
+      "avrage_stars": 4,
+      "org_price": "6000",
+      "new_price": "5500",
+      "isActive": true,
+      "isBanner":false,
+      "isBigBanner":false,
+      "timer":false,
+      "offerTime":"3600000",
+      "isOffer": true,
+      "numberOfSell": "0",
+      "description": "This is a paper sculpture that emerges from within a paper notebook. Initially, it's a simple notebook made from more than 200 sheets of paper, and with each sheet removed, you get one step closer to completing the sculpture. We don't make notebooks, we make memories. Each sheet is a step towards the birth of a sculpture. This rabbit model sculpture features a 3D paper heart and represents an animal sculpture created through assembly and modeling techniques using paper as the primary material.",
+      "reviews": {
+        "firs_rev": "Lorem ipsum dolor sit amet consecteturipsum dolor sit amet consectetur adipisicing elit. Voluptatibus, delectus minima! Animi quaerat s g elit. Voluptatibus, delectus minima! Animi quaerat sed illo?",
+        "rev_stars": "4"
+      }
     }
   ]
 }
